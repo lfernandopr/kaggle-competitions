@@ -9,8 +9,4 @@ This repository contains my solutions for [Kaggle Competitions](http://www.kaggl
 - [Housing Prices Competition for Kaggle Learn Users](https://www.kaggle.com/c/home-data-for-ml-course)
 - [OSIC Pulmonary Fibrosis Progression](https://www.kaggle.com/c/osic-pulmonary-fibrosis-progression)
 
-### Disclaimer
-
-I don't provide any data from Kaggle competitions. Thus, data from the competition need to be obtained by a login account and agreement with Kaggle licenses for the specific competition.
-
 Code by [Fernando Pelcastre](mailto:lfernando_pr@hotmail.com)
